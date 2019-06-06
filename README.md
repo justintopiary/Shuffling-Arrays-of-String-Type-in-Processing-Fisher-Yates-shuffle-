@@ -8,7 +8,8 @@ I hope this helped! This was coded in Processing 3.5.3
 Lots of love, 
 JustinTopiary
 
-/////////////////////////////////////////////////////////////
+
+
 Code can be seen below:
 
 void setup () {                      //This is a Fisher–Yates shuffle for string arrays; the algorithm used here is as described: https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle#Modern_method
